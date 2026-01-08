@@ -40,3 +40,60 @@ header{
     color: white;
 
 }
+.image{
+    background-image: url(./assets/hero-bg.png);
+    width: 71%;
+    max-width:1600px;
+    height: 500px;
+}
+.cantant{
+    padding-top:100px;
+    margin:0 180px;
+    text-align: center;
+    font-size: 15px;
+
+}
+.cantant button{
+    font-size: 20px;
+    background-color: rgb(255, 244, 244);
+    color: rgb(108, 189, 108);
+    border-radius: px;
+}
+.cantant h1{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom:10px;
+    padding-top: 10px;
+
+}
+.cantant .rimon{
+    color: green;
+
+
+}
+.cantant p{
+    padding:5px;
+    color: beige;
+
+}
+.cantant .icon {
+    font-size:30px;
+    display: flex;
+    justify-content: space-around;
+    padding: 12px 16px;
+    padding-bottom:100px;
+
+}
+.icon .btn-one{
+    background-color:green;
+    color: white;
+}
+.icon.btn-two{
+    border: 1px solid black;
+}
+
+
+
+
+
