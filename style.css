@@ -97,3 +97,40 @@ header{
 
 
 
+
+.knowladge{
+    display: flex;
+    justify-content: space-between;
+    padding: 120px 0 120px;
+    margin: 0 auto;
+    gap: 60px;
+}
+.knowladge img{
+    max-width: 600px;
+    height: 600px;
+
+}
+.massege{
+    padding: 102px 0;
+}
+.color {
+    font-size: 18px;
+    color: #30B830;
+}
+.colors{
+    font-size: 16px;
+    color: #627382;
+
+}
+.massege h2{
+    font-size: 48px;
+    font-weight: bold;
+}
+.line{
+    font-family: 10px;
+    font-weight: 900px;
+}
+
+
+
+
